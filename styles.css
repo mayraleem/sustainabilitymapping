@@ -1,33 +1,33 @@
 body {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Ubuntu', monospace;
 }
 
 p {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Courier New', monospace;
   color: #000000;
   background-color: #FFFFFF;
   text-align: center;
 }
 
 h1 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Courier New', monospace;
   text-align: center;
 }
 
 .navbar-brand {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Courier New', monospace;
 }
 
 .nav-item {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Courier New', monospace;
 }
 
 #title {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Courier New', monospace;
 }
 
 #response {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Courier New', monospace;
   color: #000000;
   text-align: center;
 }
