@@ -16,6 +16,10 @@ h1 {
   background-color: #8A9A5B
 }
 
+title {
+  background-color:#50C878; 
+}
+
 .navbar-brand {
   font-family: 'Courier Prime', monospace;
 }
@@ -26,7 +30,7 @@ h1 {
 
 #title {
   font-family: 'Courier Prime', monospace;
-  background-color:#50C878;
+  background-color: #50C878;
 }
 
 #response {
