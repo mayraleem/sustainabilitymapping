@@ -1,6 +1,6 @@
 body {
   font-family: 'Courier Prime', monospace;
-  background-color: #AFE1AF
+  background-color: #AFE1AF;
 }
 
 p {
@@ -25,6 +25,7 @@ h1 {
 
 #title {
   font-family: 'Courier Prime', monospace;
+  background-color:#50C878;
 }
 
 #response {
