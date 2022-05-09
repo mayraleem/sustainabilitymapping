@@ -1,6 +1,6 @@
 body {
   font-family: 'Courier Prime', monospace;
-  background-color: #AFE1AF;
+  background-color: #ECFFDC;
 }
 
 p {
@@ -13,6 +13,7 @@ p {
 h1 {
   font-family: 'Courier Prime', monospace;
   text-align: center;
+  background-color: #8A9A5B
 }
 
 .navbar-brand {
