@@ -31,7 +31,7 @@ h1 {
   color: #000000;
   text-align: center;
 }
-/*.second-paragraph {
+.second-paragraph {
   color: #b58900;
 }
 #third-paragraph {
@@ -41,5 +41,4 @@ p.lead {
   color: #FFFFFF;
   background-color: #000000;
 }
-/*
-*/
+
